@@ -1,0 +1,278 @@
+.favicon{
+    width: 16px;
+    height: 16px;
+}
+.navbar{
+    background-color: #6b0f1a;
+background-image: linear-gradient(315deg, #6b0f1a 0%, #b91372 74%)
+
+ !important;
+}
+.nav-link{
+color:white !important;
+font-weight: bold !important;
+
+
+}
+.navbar-brand img{
+width: 200px;
+height: 50px;
+
+}
+.carousel-item img{
+width: 100% !important;
+height: 500px !important;
+
+}
+
+
+
+
+.heading{
+color:
+#b91372 ;
+
+text-shadow:3px 2px black;
+
+font-weight: bold;
+text-align: center;
+
+transition:transform 2s;
+}
+.heading:hover{
+    transform: rotate(360deg);
+}
+
+
+.new-arrival{
+
+margin: 50px;
+transform: rotate(70);
+
+}
+
+.card img{
+width: 250px;
+height: 360px;
+
+
+}
+
+.card{
+width: 250px;
+height: 350px;
+box-shadow: 2px 3px 5px;
+margin-bottom: 100px;
+margin: auto;
+margin-bottom: 100px;
+
+
+
+}
+.card-title{
+    color: #c2185b ;
+    text-align: center;
+
+}
+
+.btn-primary{
+
+    width: 100%;
+    background-color: #b91372 ;
+    border: #6b0f1a;
+    border-radius: 40px;
+}
+ :hover.btn-primary{
+    background-color: #6b0f1a !important;
+}
+
+
+
+.fa-shopping-cart{
+font-size: 35px !important;
+
+
+}
+.fa-user-circle{
+    font-size: 35px !important;
+}
+.card-second{
+width: 100%!important;
+margin: 30px 30px;
+height: 250px !important;
+
+}
+.fa-truck{
+font-size: 50px !important;
+margin-right: 5px;
+color: #b91372;
+transform: scale(1.1);
+}
+.card1,.card2,.card3{
+
+    display: flex;
+
+    width: 300px;
+    height: 100px;
+    background-color: 2px white;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+align-items: center;
+margin-bottom: 50px;
+transition-property: all;
+transition-duration: 2s;
+transition-timing-function: linear;
+
+
+
+}
+.card1:hover,.card2:hover
+,.card3:hover{
+
+    transform: scale(1.1);
+}
+
+
+.mainCard{
+margin: 100px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-wrap: wrap;
+
+
+
+
+}
+
+.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 5px;
+    color: #b91372;
+    
+    }
+
+
+.fa-headphones{
+    font-size: 50px !important;
+    margin-right: 5px;
+     color: #b91372;
+    
+    }
+    .footer{
+
+width: 100%;
+height: 70px;
+background-color:#6b0f1a; 
+border: 2px solid black;
+
+    }
+   
+
+    .footer>div{
+
+text-align: center;
+
+    }
+     div h5{
+        color: cornsilk;
+    }
+
+    <--------------Gallery------------>
+
+
+   .fghf{
+width: 1200px;
+height: 300px;
+border: 2px solid grey;
+background-color: hotpink;
+
+}
+
+
+
+
+
+
+.gallery{
+margin: 10px 50px;
+
+}
+.gallery img{
+width: 250px;
+height: 300px;
+padding: 10px;
+filter: grayscale(0%);
+transition-duration: 2s;
+transition-timing-function: linear;
+transition-property: all;
+
+}
+
+
+
+.gallery img:hover{
+filter: grayscale(100%);
+transform: scale(1.1);
+    
+} 
+
+<--------------contact------------>
+
+.col1 img {
+
+    width: 100%;
+    height: 70% !important;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+}
+
+    
+    
+
+form{
+background-color: rgb(255, 227, 239);
+margin: 20px auto;
+padding: 10px;
+width: 400px;
+border-radius: 80px;
+}
+    
+h3{
+
+    color:  #c2185b;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif ;
+    text-align: center;
+}
+.contact-form{
+margin-left: 20px;
+color: #6b0f1a;
+padding: 20px;
+border-radius: 40px;
+
+}
+.input-box{
+color: violet;
+border: none;
+border-radius: 10px;
+width: 200px;
+height: 30px;
+padding: 20px 20px;
+;
+
+}
+
+.image-fix{
+width: 100%;
+height: 250px;
+
+
+}
+.image-fix img:hover{
+
+transform: scale(1.1);
+filter: grayscale(100%);
+
+}

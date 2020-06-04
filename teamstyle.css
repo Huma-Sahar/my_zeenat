@@ -1,0 +1,96 @@
+.favicon{
+    width: 16px;
+    height: 16px;
+}
+.navbar{
+    background-color: #6b0f1a;
+background-image: linear-gradient(315deg, #6b0f1a 0%, #b91372 74%)
+
+ !important;
+}
+.nav-link{
+color:white !important;
+font-weight: bold !important;
+
+
+}
+.navbar-brand img{
+width: 200px;
+height: 50px;
+
+}
+.heading{
+    color:
+    #b91372 ;
+    
+    text-shadow:3px 2px black;
+    
+    font-weight: bold;
+    text-align: center;
+    
+    }
+    .card img{
+        width: 350px;
+        height: 300px;
+        border-radius: 0 50% 0 50%;
+        padding: 30px;
+        
+        }
+
+        .card img:hover{
+
+
+           transform: scale(1.1); 
+        }
+
+        .card{
+
+            width:350px;
+            height: 440px;
+            border: white !important;
+            
+            
+            
+            
+
+        }
+
+
+        .card-title{
+
+            color: #c2185b ;
+            font-weight: bold;
+        }
+        
+
+        .footer{
+
+            width: 100%;
+            height: 70px;
+            background-color:#6b0f1a; 
+            border: 2px solid black;
+            
+                }
+               
+            
+                .footer>div{
+            
+            text-align: center;
+            
+                }
+                 div h5{
+                    color: cornsilk;
+                }
+                .fa-shopping-cart{
+                    font-size: 35px !important;
+                    
+                    
+                    }
+                    .fa-user-circle{
+                        font-size: 35px !important;
+                    }
+                    .image-fix{
+                        width: 100%;
+                        height: 250px;
+                        
+                    }
